@@ -1,5 +1,15 @@
 # @self/tootils
 
+## 0.12.0
+
+### Features
+
+- [#13151](https://github.com/gradio-app/gradio/pull/13151) [`c13daab`](https://github.com/gradio-app/gradio/commit/c13daab68aa40cb58f2c643a650b5db48e986935) - add test utils.  Thanks @pngwn!
+
+### Dependency updates
+
+- @gradio/statustracker@0.13.1
+
 ## 0.11.0
 
 ### Features

@@ -1,5 +1,15 @@
 # @self/spa
 
+## 1.3.0
+
+### Features
+
+- [#13151](https://github.com/gradio-app/gradio/pull/13151) [`c13daab`](https://github.com/gradio-app/gradio/commit/c13daab68aa40cb58f2c643a650b5db48e986935) - add test utils.  Thanks @pngwn!
+
+### Dependency updates
+
+- @gradio/core@1.4.2
+
 ## 1.2.0
 
 ### Features
